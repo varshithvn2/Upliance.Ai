@@ -25,6 +25,9 @@ This project involves analyzing and visualizing data to gain insights and provid
 - Analyzing trends and deriving actionable insights.
 - Creating visualizations to highlight findings clearly and effectively.
 - Compiling results into a presentation for ease of communication.
+  
+## Notes
+- The Google Sheets file has been uploaded as an `.xlsx` file, so there might be slight changes in visualizations. For the original version, access it [here](https://docs.google.com/spreadsheets/d/11vI49YU6j2VRfpZJiJLNrNpapAa7c58rWweCoJtPLH4/edit?usp=sharing).
 
 ## How to Use
 1. Open the Excel file for a detailed view of the raw data and preliminary processing.
